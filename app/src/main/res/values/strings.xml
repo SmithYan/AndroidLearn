@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">安卓学习</string>
+    <string name="btn_next_class">下一课</string>
+    <string name="btn_inner_class">内部类点击</string>
+    <string name="btn_anonymous_class">匿名类点击</string>
+    <string name="btn_xml_click">xml点击</string>
+</resources>
